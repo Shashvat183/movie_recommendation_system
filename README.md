@@ -29,6 +29,14 @@ magnetic-cluster/
 ├── setup.sh # Optional setup script
 ├── .gitignore
 └── README.md
+
+## Screenshots
+
+![Screenshot 1](images/1.pkl.png)
+![Screenshot 2](images/2.pkl.png)
+![Screenshot 3](images/3.pkl.png)
+![Screenshot 4](images/4.pkl.png)
+
 ---
 
 ## Installation
